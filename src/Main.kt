@@ -1,6 +1,6 @@
 fun main() {
     val shapes = mutableListOf<Shape>()
-    
+
     val square = Square("Square")
     val circle = Circle("Circle")
     val triangle = Triangle("Triangle")
